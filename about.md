@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi there! My name is Jared and I'm an Electrical Engineer turned Data Scientist currently living in Toronto. This site is here to showcase my project portfolio, resume, and maybe some other cool stuff in the future.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jaredlauer@gmail.com](mailto:jaredlauer@gmail.com)
